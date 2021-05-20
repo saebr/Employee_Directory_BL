@@ -7,7 +7,6 @@ function App() {
   return (
       <div>
           <Hero />
-          <SearchBar/>
           <Directory/>
       </div>
   );
